@@ -1,0 +1,10 @@
+.DS_Store
+.mvn/
+liquibase.properties
+mvnw
+mvnw.cmd
+back.iml
+liquibase.properties
+mvnw.cmd
+target/
+.idea/
